@@ -1,0 +1,33 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    services:
+      db:
+        image: pgvector/pgvector:pg16
+        env:
+          POSTGRES_USER: glass
+          POSTGRES_PASSWORD: glass
+          POSTGRES_DB: glass_test
+        ports: ["5433:5432"]
+        options: >-
+          --health-cmd "pg_isready -U glass -d glass_test" --health-interval 3s --health-timeout 3s --health-retries 20
+    env:
+      TEST_DATABASE_URL: postgresql+asyncpg://glass:glass@127.0.0.1:5433/glass_test
+      DATABASE_URL: postgresql+asyncpg://glass:glass@127.0.0.1:5433/glass_test
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: sudo apt-get update && sudo apt-get install -y fonts-dejavu-core
+      - run: pip install --extra-index-url https://download.pytorch.org/whl/cpu -r requirements.txt
+      - name: Миграции применяются и совпадают с моделями
+        run: alembic upgrade head && alembic check
+      - run: python -m pytest -q

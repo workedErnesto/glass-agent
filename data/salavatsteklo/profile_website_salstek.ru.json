@@ -1,0 +1,1354 @@
+{
+  "site": "salstek.ru",
+  "site_name": "salstek.ru",
+  "home_title": "Крупнейший производитель листового и архитектурного стекла в России",
+  "home_description": "Крупнейший в России производитель листового, архитектурного и крупногабаритного стекла. Прямые поставки по всей стране и в г. Салават напрямую с завода, качественное изготовление продукции, гарантия. Оставляйте заявку на нашем сайте!",
+  "pages_by_type": {
+    "about": 7,
+    "article_index": 1,
+    "career": 5,
+    "contacts": 10,
+    "home": 1,
+    "investors": 10,
+    "legal": 1,
+    "news": 24,
+    "news_index": 1,
+    "page": 6,
+    "product": 47,
+    "product_category": 6,
+    "product_index": 1,
+    "project": 79,
+    "project_index": 5,
+    "service": 4,
+    "service_index": 1
+  },
+  "product_categories": [
+    {
+      "title": "Архитектурное стекло",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/",
+      "description": "Производство архитектурного стекла в Салавате. Прямые поставки по России и СНГ по выгодным ценам от крупнейшего стекольного завода. Оставьте заявку на нашем сайте!"
+    },
+    {
+      "title": "Безопасное стекло и стеклопакеты",
+      "url": "https://salstek.ru/products/bezopasnoe-steklo-i-steklopakety/",
+      "description": "Производство безопасного стекла и стеклопакетов в России. Компания «Салаватстекло» гарантирует безопасность и долгую эксплуатацию выпускаемой продукции. Доставка в г. Салават и по всей России. Оставляйте заявку на сайте!"
+    },
+    {
+      "title": "Интерьерные продукты",
+      "url": "https://salstek.ru/products/interernoe-steklo/",
+      "description": "Производство интерьерного стекла с глянцевым и матовым покрытием для дизайна помещений. Прямые поставки по выгодным ценам от компании «Салаватстекло» в Салавате. Оставьте заявку на нашем сайте!"
+    },
+    {
+      "title": "Оконные продукты",
+      "url": "https://salstek.ru/products/okonnoe-steklo/",
+      "description": "Производство и продажа оконного стекла для изготовления стеклопакетов и конструкций. Оптом с доставкой по всей России от завода Салаватстекло. Оставьте заявку по телефону или почте!"
+    },
+    {
+      "title": "Стеклотара",
+      "url": "https://salstek.ru/products/proizvodstvo-steklotary/",
+      "description": "Производство стеклотары различного объема в России. Компания «Салаватстекло» осуществляет прямые поставки стеклянных бутылок для пищевых и технических жидкостей. Оставьте заявку на сайте!"
+    },
+    {
+      "title": "Силикат Натрия",
+      "url": "https://salstek.ru/products/silikat-natriya/",
+      "description": "Производство силиката натрия широкого спектра применения. Прямые поставки по выгодным ценам от компании «Салаватстекло» по Салавату и всей России. Оставьте заявку на нашем сайте!"
+    }
+  ],
+  "products": [
+    {
+      "title": "Comfort° Blue",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/comfort-blue/",
+      "description": "Производство солнцезащитного архитектурного стекла Comfort° Blue с голубым оттенком. Прямая доставка с завода по всей России, выгодные цены, высокое качество! Закажите на нашем сайте!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "Comfort° Blue 20"
+          ],
+          [
+            "Светопропускание (LT)",
+            "21%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "34%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "17%"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "Comfort° Bronze",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/comfort-bronze/",
+      "description": "Производство солнцезащитного архитектурного стекла Comfort° Bronze с бронзовым оттенком. Прямая доставка с завода по всей России, выгодные цены, высокое качество! Закажите на нашем сайте!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "Comfort° Bronze 20"
+          ],
+          [
+            "Светопропускание (LT)",
+            "21%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "36%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "15%"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "Comfort° Green",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/comfort-green/",
+      "description": "Производство солнцезащитного архитектурного стекла Comfort° Green зеленого оттенка. Прямая доставка с завода по всей России, выгодные цены, высокое качество! Закажите на нашем сайте!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "Comfort° Green 40"
+          ],
+          [
+            "Светопропускание (LT)",
+            "39%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "46%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "17%"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "Comfort° Neutral / Elit+",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/comfort-neutral-elit/",
+      "description": "Производство солнцезащитного архитектурного стекла Comfort° Neutral / Elit+ нейтрального оттенка. Прямая доставка с завода по всей России, выгодные цены, высокое качество! Закажите на нашем сайте!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "Comfort° Neutral 65",
+            "Comfort° Elit+",
+            "Comfort Elit + on UVR",
+            "Comfort Neutral 65 on UVR"
+          ],
+          [
+            "Светопропускание (LT)",
+            "64%",
+            "65%",
+            "66%",
+            "65%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "69%",
+            "67%",
+            "68%",
+            "69%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "21%",
+            "32%",
+            "32%",
+            "21%"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "Comfort° Silver / Comfort° Grey",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/comfort-silver-comfort-grey/",
+      "description": "Производство солнцезащитного архитектурного стекла Comfort° Silver / Comfort° Grey с зеркальным серым оттенком. Прямая доставка с завода по всей России, выгодные цены, высокое качество! Закажите на нашем сайте!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "Comfort° Silver 11",
+            "Comfort° Silver-Grey 40",
+            "Comfort° Grey 20"
+          ],
+          [
+            "Светопропускание (LT)",
+            "12%",
+            "41%",
+            "21%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "26%",
+            "46%",
+            "33%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "33%",
+            "23%",
+            "26%"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "Архитектурное стекло Comfort°",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/comfort/",
+      "description": "Серия солнцезащитных архитектурных стекол Comfort°. Прямые поставки по России и СНГ от крупнейшего производителя Салаватстекло. Закажите на нашем сайте!"
+    },
+    {
+      "title": "MultiComfort° Blue",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/multicomfort-blue/",
+      "description": "Многофункциональное стекло MultiComfort° Blue с голубым оттенком - от производителя Салаватстекло. Доставка по всей России. Закажите у нас по телефону!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "MultiComfort° Blue 37/28",
+            "MultiComfort° Light Blue 55/38"
+          ],
+          [
+            "Светопропускание (LT)",
+            "38%",
+            "54%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "30%",
+            "39%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "28%",
+            "21%"
+          ],
+          [
+            "Энергоэффективность (U)",
+            "1,1",
+            "1,1"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "MultiComfort Gold 20/25 on Ultraview R",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/multicomfort-gold-20-25-on-ultraview-r/",
+      "description": "Премиальное многофункциональное стекло с благородным золотистым оттенком MultiComfort Gold 20/25 on Ultraview R от производителя Салаватстекло. Доставка по всей России. Закажите у нас по телефону!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "MultiComfort Gold 20/25 on Ultraview R"
+          ],
+          [
+            "Светопропускание (LT)",
+            "20%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "25%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "50%"
+          ],
+          [
+            "Энергоэффективность (U)",
+            "1,2%"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "MultiComfort° Light Bronze",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/multicomfort-light-bronze/",
+      "description": "Многофункциональное стекло MultiComfort° Light Bronze с металлическим отблеском от производителя Салаватстекло. Доставка по всей России. Закажите у нас по телефону!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "MultiComfort° Bronze 37/28"
+          ],
+          [
+            "Светопропускание (LT)",
+            "37%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "28%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "21%"
+          ],
+          [
+            "Энергоэффективность (U)",
+            "1,2"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "MultiComfort° Neutral PRO",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/multicomfort-neutral-pro/",
+      "description": "Серия архитектурного стекла MultiComfort° Neutral PRO для профессионального использования от производителя Салаватстекло. Доставка по всей России. Закажите у нас по телефону!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "MultiComfort° Neutral PRO 50",
+            "MultiComfort° Neutral PRO 60",
+            "MultiComfort° Neutral PRO 70",
+            "MultiComfort° Neutral PRO 80"
+          ],
+          [
+            "Светопропускание (LT)",
+            "48%",
+            "55%",
+            "67%",
+            "77%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "34%",
+            "39%",
+            "49%",
+            "57%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "26%",
+            "26%",
+            "29%",
+            "17%"
+          ],
+          [
+            "Энергоэффективность (U)",
+            "1,2",
+            "1,2",
+            "1,14",
+            "1,2"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "MultiComfort° Neutral",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/multicomfort-neutral/",
+      "description": "Многофункциональное стекло MultiComfort° Neutral с металлическим отблеском от производителя Салаватстекло. Доставка по всей России. Закажите у нас по телефону!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "MultiComfort° Neutral 66/43"
+          ],
+          [
+            "Светопропускание (LT)",
+            "66%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "43%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "26%"
+          ],
+          [
+            "Энергоэффективность (U)",
+            "1,1"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "MultiComfort° Next",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/multicomfort-next/",
+      "description": "Универсальное стекло MultiComfort° Next без оттенка от производителя Салаватстекло. Доставка по всей России. Закажите у нас по телефону!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "MultiComfort° Next"
+          ],
+          [
+            "Светопропускание (LT)",
+            "66%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "43%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "26%"
+          ],
+          [
+            "Энергоэффективность (U)",
+            "1,1"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "MultiComfort° Select One",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/multicomfort-select-one/",
+      "description": "Высокоселективное стекло MultiComfort° Select One с низким отражением от производителя Салаватстекло. Доставка по всей России. Закажите у нас по телефону!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "MultiComfort° Select One 70/37"
+          ],
+          [
+            "Светопропускание (LT)",
+            "68%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "37%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "15%"
+          ],
+          [
+            "Энергоэффективность (U)",
+            "1,1"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "MultiComfort° Silver",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/multicomfort-silver/",
+      "description": "Многофункциональное стекло MultiComfort° Silver с внешним серебряным покрытием от производителя Салаватстекло. Доставка по всей России. Закажите у нас по телефону!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "MultiComfort° Silver 36/25"
+          ],
+          [
+            "Светопропускание (LT)",
+            "38%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "27%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "44%"
+          ],
+          [
+            "Энергоэффективность (U)",
+            "1,1"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "Архитектурное стекло MultiComfort°",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/multicomfort/",
+      "description": "Серия архитектурных стекол MultiComfort°. Прямые поставки по России и СНГ от крупнейшего производителя Салаватстекло. Закажите на нашем сайте!"
+    },
+    {
+      "title": "Standart ST° Plus",
+      "url": "https://salstek.ru/products/arkhitekturnoe-steklo/standart-st-plus/",
+      "description": "Серия архитектурных теплосберегающих стекол Standart ST° Plus. Прямые поставки по России и СНГ от крупнейшего производителя Салаватстекло. Закажите на нашем сайте!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "Standart° ST Plus"
+          ],
+          [
+            "Светопропускание (LT)",
+            "76%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "57%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "17%"
+          ],
+          [
+            "Энергоэффективность (U)",
+            "1,2"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "Безопасное стекло многослойное",
+      "url": "https://salstek.ru/products/bezopasnoe-steklo-i-steklopakety/bezopasnoe-steklo-mnogosloynoe/",
+      "description": "Производство безопасного многослойного стекла со специальной ПВБ-пленкой. Высокая ударопрочность и защита от осколков. Доставка по России от завода Салаватстекло. Звоните!"
+    },
+    {
+      "title": "Безопасное стекло закаленное",
+      "url": "https://salstek.ru/products/bezopasnoe-steklo-i-steklopakety/bezopasnoe-steklo-zakalennoe/",
+      "description": "Производство безопасного закаленного стекла. Устойчивость к ударам и перепадам температур. Доставка по России от завода Салаватстекло. Звоните!"
+    },
+    {
+      "title": "Огнестойкое закаленное стекло",
+      "url": "https://salstek.ru/products/bezopasnoe-steklo-i-steklopakety/ognestoykoe-zakalennoe-steklo/",
+      "description": "Производство огнестойкого закаленного стекла для окон, дверей и перегородок. Выдерживает тепловые нагрузки при пожаре. Доставка по России от завода Салаватстекло. Звоните!"
+    },
+    {
+      "title": "Стекло многослойное безопасное для наземного транспорта",
+      "url": "https://salstek.ru/products/bezopasnoe-steklo-i-steklopakety/steklo-mnogosloynoe-bezopasnoe-dlya-nazemnogo-transporta/",
+      "description": "Производство безопасного многослойного стекла для наземного транспорта. Плоское и гнутое с декоративным кантом. Доставка по России от завода Салаватстекло. Звоните!"
+    },
+    {
+      "title": "Стекло многослойное строительного и бытового назначения",
+      "url": "https://salstek.ru/products/bezopasnoe-steklo-i-steklopakety/steklo-mnogosloynoe-stroitelnogo-i-bytovogo-naznacheniya/",
+      "description": "Производство многослойного стекла для строительства и бытового назначения с цветной или прозрачной пленкой по спецификации заказчика. Доставка по России от завода Салаватстекло. Звоните!"
+    },
+    {
+      "title": "Стекло закаленное для наземного транспорта",
+      "url": "https://salstek.ru/products/bezopasnoe-steklo-i-steklopakety/steklo-zakalennoe-dlya-nazemnogo-transporta/",
+      "description": "Производство плоского и гнутого закаленного стекла для транспорта: с отверстиями, электрообогревом и шелкографией. Доставка по России от завода Салаватстекло. Звоните!"
+    },
+    {
+      "title": "Стекло закаленное строительного и бытового назначения",
+      "url": "https://salstek.ru/products/bezopasnoe-steklo-i-steklopakety/steklo-zakalennoe-stroitelnogo-i-bytovogo-naznacheniya/",
+      "description": "Производство закаленного стекла для строительного и бытового назначения. Доставка по России от завода Салаватстекло. Звоните!"
+    },
+    {
+      "title": "Стекло защитное многослойное пулестойкое",
+      "url": "https://salstek.ru/products/bezopasnoe-steklo-i-steklopakety/steklo-zaschitnoe-mnogosloynoe-pulestoykoe/",
+      "description": "Производство пулестойкого многослойного стекла. Надежно выдерживает огнестрельное воздействие. Доставка по России от завода Салаватстекло. Звоните!"
+    },
+    {
+      "title": "Стеклопакеты для наземного транспорта",
+      "url": "https://salstek.ru/products/bezopasnoe-steklo-i-steklopakety/steklopakety-dlya-nazemnogo-transporta/",
+      "description": "Производство стеклопакетов для автобусов, поездов и спецтехники. Обеспечивают высокую шумоизоляцию, безопасность и энергосбережение. Доставка по России от завода Салаватстекло. Звоните!"
+    },
+    {
+      "title": "Стеклопакеты строительного назначения",
+      "url": "https://salstek.ru/products/bezopasnoe-steklo-i-steklopakety/steklopakety-stroitelnogo-naznacheniya/",
+      "description": "Производство строительных стеклопакетов с энергосберегающим, солнцезащитным или закаленным стеклом. Доставка по России от завода Салаватстекло. Звоните!"
+    },
+    {
+      "title": "Стеклопакеты",
+      "url": "https://salstek.ru/products/bezopasnoe-steklo-i-steklopakety/steklopakety/",
+      "description": "Производство энергосберегающих стеклопакетов для транспорта и строительства. Доставка по России от завода Салаватстекло. Звоните!"
+    },
+    {
+      "title": "Clearview",
+      "url": "https://salstek.ru/products/interernoe-steklo/clearview/",
+      "description": "Стекло Clearview с антирефлективным покрытием на базе Ultraview R для витрин, музеев, премиум-остекления от производителя Салаватстекло. Доставка по всей России. Закажите у нас по телефону!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "Листовое прозрачное стекло",
+            "Clearview X1 on Ultraview R",
+            "Clearview X2 on Ultraview R"
+          ],
+          [
+            "Толщина стекла (мм)",
+            "4\n\n6",
+            "4",
+            "6",
+            "4\n\n6",
+            "4",
+            "6",
+            "4\n\n6",
+            "4",
+            "6"
+          ],
+          [
+            "4",
+            "6"
+          ],
+          [
+            "4",
+            "6"
+          ],
+          [
+            "4",
+            "6"
+          ],
+          [
+            "Светопропускание (LT)",
+            "90%\n\n90%",
+            "90%",
+            "90%",
+            "94%\n\n93%",
+            "94%",
+            "93%",
+            "97%\n\n97%",
+            "97%",
+            "97%"
+          ],
+          [
+            "90%",
+            "90%"
+          ],
+          [
+            "94%",
+            "93%"
+          ],
+          [
+            "97%",
+            "97%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "8,32%\n\n8,39%",
+            "8,32%",
+            "8,39%",
+            "5,05%\n\n5,12%",
+            "5,05%",
+            "5,12%",
+            "1,35%\n\n1,24",
+            "1,35%",
+            "1,24"
+          ],
+          [
+            "8,32%",
+            "8,39%"
+          ],
+          [
+            "5,05%",
+            "5,12%"
+          ],
+          [
+            "1,35%",
+            "1,24"
+          ],
+          [
+            "Цветопередача (R)",
+            "99%\n\n99%",
+            "99%",
+            "99%",
+            "99%\n\n99%",
+            "99%",
+            "99%",
+            "99%\n\n99%",
+            "99%",
+            "99%"
+          ],
+          [
+            "99%",
+            "99%"
+          ],
+          [
+            "99%",
+            "99%"
+          ],
+          [
+            "99%",
+            "99%"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "Зеркало Mirroline Royal",
+      "url": "https://salstek.ru/products/interernoe-steklo/mirroline-royal/",
+      "description": "Зеркало Mirroline Royal с магнетронным напылением для ванных комнат и современных интерьеров. Приглушенное отражение, устойчивость к коррозии и влаге. Доставка по всей России! Звоните!"
+    },
+    {
+      "title": "Зеркало Mirroline",
+      "url": "https://salstek.ru/products/interernoe-steklo/mirroline/",
+      "description": "Зеркало Mirroline из бесцветного и окрашенного стекла с высоким коэффициентом отражения от производителя Салаватстекло. Для расширения пространства и улучшения освещения интерьера. Доставка по всей России! Звоните!"
+    },
+    {
+      "title": "Privaline",
+      "url": "https://salstek.ru/products/interernoe-steklo/privaline/",
+      "description": "Интерьерное стекло Privaline с глянцевым лакокрасочным покрытием от производителя Салаватстекло. Доставка по всей России! Звоните!"
+    },
+    {
+      "title": "Стекло, окрашенное в массе",
+      "url": "https://salstek.ru/products/interernoe-steklo/steklo-okrashennoe-v-masse/",
+      "description": "Стекло, окрашенное в массе с солнцезащитным эффектом для фасадов, интерьера и мебели от производителя. Доставка по всей России! Звоните!"
+    },
+    {
+      "title": "Листовое стекло Ultraview R",
+      "url": "https://salstek.ru/products/interernoe-steklo/ultraview-r/",
+      "description": "Листовое стекло Ultraview R - прозрачное с минимальным содержанием железа от производителя Салаватстекло. Высокая степень светопропускания и цветопередачи. Доставка по всей России! Звоните!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "4 мм",
+            "6 мм",
+            "8 мм",
+            "10 мм"
+          ],
+          [
+            "Светопропускание (LT)",
+            "91%",
+            "91%",
+            "90%",
+            "90%"
+          ],
+          [
+            "Индекс цветопередачи (Ra)",
+            "100%",
+            "100%",
+            "100%",
+            "99,5%"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "Extraview",
+      "url": "https://salstek.ru/products/okonnoe-steklo/extraview/",
+      "description": "Производство листового флоат-стекла Extraview с низким содержанием железа. Максимальная прозрачность и естественная цветопередача для остекления окон и фасадов. Доставка по всей России! Звоните!"
+    },
+    {
+      "title": "MF",
+      "url": "https://salstek.ru/products/okonnoe-steklo/mf/",
+      "description": "Многофункциональное стекло MF для стеклопакетов от производителя. Сочетает солнцезащитные и энергосберегающие свойства. Доставка по всей России! Узнайте подробнее на нашем сайте!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "MF Neutral",
+            "MF Light Bronze",
+            "MF Blue",
+            "MF Silver"
+          ],
+          [
+            "Светопропускание (LT)",
+            "63%",
+            "36%",
+            "36%",
+            "36%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "43%",
+            "28%",
+            "28%",
+            "28%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "27%",
+            "22%",
+            "30%",
+            "46%"
+          ],
+          [
+            "Энергоэффективность (U)",
+            "1,1",
+            "1,2",
+            "1,2",
+            "1,1"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "Прозрачное стекло",
+      "url": "https://salstek.ru/products/okonnoe-steklo/prozrachnoe-steklo/",
+      "description": "Качественное прозрачное оконное стекло призводства компании Салаватстекло. Доставка по всей России. Оставьте заявку на сайте!"
+    },
+    {
+      "title": "Прозрачное стекло",
+      "url": "https://salstek.ru/products/okonnoe-steklo/prozrachnoe/",
+      "description": "Качественное прозрачное оконное стекло призводства компании Салаватстекло. Доставка по всей России. Оставьте заявку на сайте!"
+    },
+    {
+      "title": "Standart Low-E",
+      "url": "https://salstek.ru/products/okonnoe-steklo/standart-low-e/",
+      "description": "Энергосберегающее стекло Standart Low-E с оптимальной степенью солнцезащиты от производителя. Максимальное сохранение тепла в помещении. Доставка по всей России!",
+      "specs": [
+        [
+          [
+            "Показатель",
+            "Standart Low-E"
+          ],
+          [
+            "Светопропускание (LT)",
+            "79%"
+          ],
+          [
+            "Солнечный фактор (SF)",
+            "62%"
+          ],
+          [
+            "Наружнoе отражение света (LR)",
+            "12%"
+          ],
+          [
+            "Энергоэффективность (U)",
+            "1,1"
+          ]
+        ]
+      ]
+    },
+    {
+      "title": "Стеклотара 160мл",
+      "url": "https://salstek.ru/products/proizvodstvo-steklotary/160-ml/",
+      "description": "Производство стеклянных бутылок объемом 160мл для пищевых жидкостей диаметром до 90мм. Разработка по эскизам заказчика. Поставки по всей России. Задайте вопрос на нашем сайте!"
+    },
+    {
+      "title": "Стеклотара 200мл",
+      "url": "https://salstek.ru/products/proizvodstvo-steklotary/200-ml/",
+      "description": "Производство стеклянных бутылок объемом 200мл для пищевых жидкостей диаметром до 90мм. Разработка по эскизам заказчика. Поставки по всей России. Задайте вопрос на нашем сайте!"
+    },
+    {
+      "title": "Стеклотара 250мл",
+      "url": "https://salstek.ru/products/proizvodstvo-steklotary/250-ml/",
+      "description": "Производство стеклянных бутылок объемом 250мл для пищевых жидкостей диаметром до 90мм. Разработка по эскизам заказчика. Поставки по всей России. Задайте вопрос на нашем сайте!"
+    },
+    {
+      "title": "Стеклотара 350мл",
+      "url": "https://salstek.ru/products/proizvodstvo-steklotary/350-ml/",
+      "description": "Производство стеклянных бутылок объемом 350мл для пищевых жидкостей диаметром до 90мм. Разработка по эскизам заказчика. Поставки по всей России. Задайте вопрос на нашем сайте!"
+    },
+    {
+      "title": "Стеклотара 375мл",
+      "url": "https://salstek.ru/products/proizvodstvo-steklotary/375-ml/",
+      "description": "Производство стеклянных бутылок объемом 375мл для пищевых жидкостей диаметром до 90мм. Разработка по эскизам заказчика. Поставки по всей России. Задайте вопрос на нашем сайте!"
+    },
+    {
+      "title": "Стеклотара 500мл",
+      "url": "https://salstek.ru/products/proizvodstvo-steklotary/500-ml/",
+      "description": "Производство стеклянных бутылок объемом 500мл для пищевых жидкостей диаметром до 90мм. Разработка по эскизам заказчика. Поставки по всей России. Задайте вопрос на нашем сайте!"
+    },
+    {
+      "title": "Стеклотара 700мл",
+      "url": "https://salstek.ru/products/proizvodstvo-steklotary/700-ml/",
+      "description": "Производство стеклянных бутылок объемом 700мл для пищевых жидкостей диаметром до 90мм. Разработка по эскизам заказчика. Поставки по всей России. Задайте вопрос на нашем сайте!"
+    },
+    {
+      "title": "Силикат натрия растворимый",
+      "url": "https://salstek.ru/products/silikat-natriya/silikat-natriya-rastvorimyy/",
+      "description": "Производство растворимого силиката натрия в гранулах. Подходит для производства жидкого стекла, сварочных электродов, моющих средств и строительства. Доставка по всей России! Звоните и заказывайте!"
+    },
+    {
+      "title": "Стекло натриевое жидкое",
+      "url": "https://salstek.ru/products/silikat-natriya/steklo-natrievoe-zhidkoe/",
+      "description": "Производство жидкого натриевого стекла. Подходит для строительства, гидроизоляции бетона, литейного производства, бытовой химии и огнезащиты древесины. Доставка по всей России! Звоните!"
+    }
+  ],
+  "services": [
+    {
+      "title": "Документы",
+      "url": "https://salstek.ru/service-support/documents/",
+      "description": "Документация, шаблоны договоров и другие материалы для скачивания - компания Салаватстекло"
+    },
+    {
+      "title": "Лаборатория",
+      "url": "https://salstek.ru/service-support/laboratory/",
+      "description": "Аккредитованная лаборатория Салаватстекло. Контроль качества листового, закаленного, солнцезащитного, многослойного стекла и силикатов по ГОСТ."
+    },
+    {
+      "title": "Рекламные материалы",
+      "url": "https://salstek.ru/service-support/promotional-materials/",
+      "description": "Каталоги продукции и рекламные материалы для скачивания - компания Салаватстекло"
+    },
+    {
+      "title": "Продажа неликвидов",
+      "url": "https://salstek.ru/service-support/sale-illiquid/",
+      "description": "Реализации отходов производства и неликвидных ТМЦ - компания Салаватстекло"
+    },
+    {
+      "title": "Сервис и поддержка",
+      "url": "https://salstek.ru/service-support/",
+      "description": "Техническая поддержка компании Салаватстекло"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Акимат Туркестана",
+      "url": "https://salstek.ru/projects/akimat-turkestana/"
+    },
+    {
+      "title": "Банк «Infin»",
+      "url": "https://salstek.ru/projects/bank-infin/"
+    },
+    {
+      "title": "Бассейн олимпийского типа",
+      "url": "https://salstek.ru/projects/basseyn-olimpiyskogo-tipa/"
+    },
+    {
+      "title": "Бассейн",
+      "url": "https://salstek.ru/projects/basseyn/"
+    },
+    {
+      "title": "Бизнес центр",
+      "url": "https://salstek.ru/projects/biznes-tsentr/"
+    },
+    {
+      "title": "БЦ «Fort»",
+      "url": "https://salstek.ru/projects/bts-fort/"
+    },
+    {
+      "title": "БЦ «Нурлы Тау»",
+      "url": "https://salstek.ru/projects/bts-nurly-tau/"
+    },
+    {
+      "title": "БЦ «Orient»",
+      "url": "https://salstek.ru/projects/bts-orient/"
+    },
+    {
+      "title": "БЦ «Turar»",
+      "url": "https://salstek.ru/projects/bts-turar/"
+    },
+    {
+      "title": "БЦ «Звезда»",
+      "url": "https://salstek.ru/projects/bts-zvezda/"
+    },
+    {
+      "title": "Драматический театр",
+      "url": "https://salstek.ru/projects/dramaticheskiy-teatr/"
+    },
+    {
+      "title": "Дворец дзюдо",
+      "url": "https://salstek.ru/projects/dvorets-dzyudo-/"
+    },
+    {
+      "title": "Дворец единоборств",
+      "url": "https://salstek.ru/projects/dvorets-edinoborstv/"
+    },
+    {
+      "title": "Дворец водных видов спорта",
+      "url": "https://salstek.ru/projects/dvorets-vodnykh-vidov-sporta/"
+    },
+    {
+      "title": "EXPO",
+      "url": "https://salstek.ru/projects/expo/"
+    },
+    {
+      "title": "Фитнес-центр",
+      "url": "https://salstek.ru/projects/fitnes-tsentr/"
+    },
+    {
+      "title": "Гостиница «Вятка»",
+      "url": "https://salstek.ru/projects/gostinitsa-vyatka/"
+    },
+    {
+      "title": "Государственный архив РФ",
+      "url": "https://salstek.ru/projects/gosudarstvennyy-arkhiv-rf/"
+    },
+    {
+      "title": "Институт математики им. Романовского",
+      "url": "https://salstek.ru/projects/institut-matematiki-im-romanovskogo/"
+    },
+    {
+      "title": "Клубный дом «Соты»",
+      "url": "https://salstek.ru/projects/klubnyy-dom-soty/"
+    },
+    {
+      "title": "Ледовый дворец «Байкал»",
+      "url": "https://salstek.ru/projects/ledovyy-dvorets-baykal/"
+    },
+    {
+      "title": "Ледовый дворец «Енисей»",
+      "url": "https://salstek.ru/projects/ledovyy-dvorets-enisey/"
+    },
+    {
+      "title": "Медиацентр",
+      "url": "https://salstek.ru/projects/mediatsentr/"
+    },
+    {
+      "title": "Министерство инновационного развития",
+      "url": "https://salstek.ru/projects/ministerstvo-innovatsionnogo-razvitiya/"
+    },
+    {
+      "title": "Музей истории России",
+      "url": "https://salstek.ru/projects/muzey-istorii-rossii/"
+    },
+    {
+      "title": "Музей «Яссауиу»",
+      "url": "https://salstek.ru/projects/muzey-yassauiu/"
+    },
+    {
+      "title": "Музыкальная школа «SEN»",
+      "url": "https://salstek.ru/projects/muzykalnaya-shkola-sen/"
+    },
+    {
+      "title": "Назарбаев интеллектуальные школы (НИШ)",
+      "url": "https://salstek.ru/projects/nazarbaev-intellektualnye-shkoly-nish/"
+    },
+    {
+      "title": "Офис «Imzo»",
+      "url": "https://salstek.ru/projects/ofis-imzo/"
+    },
+    {
+      "title": "Офис нефтегазовой компании",
+      "url": "https://salstek.ru/projects/ofis-neftegazovoy-kompanii/"
+    },
+    {
+      "title": "Офисы строительной компании «Bazis-A»",
+      "url": "https://salstek.ru/projects/ofisy-stroitelnoy-kompanii-bazis-a/"
+    },
+    {
+      "title": "Олимпийский центр",
+      "url": "https://salstek.ru/projects/olimpiyskiy-tsentr/"
+    },
+    {
+      "title": "Реализованные проекты компании «Салаватстекло»",
+      "url": "https://salstek.ru/projects/otel-mirror/"
+    },
+    {
+      "title": "Отель «Rixos»",
+      "url": "https://salstek.ru/projects/otel-rixos/"
+    },
+    {
+      "title": "Отель «The Veil»",
+      "url": "https://salstek.ru/projects/otel-the-veil/"
+    },
+    {
+      "title": "Парламент республики Узбекистан",
+      "url": "https://salstek.ru/projects/parlament-respubliki-uzbekistan/"
+    },
+    {
+      "title": "Республиканский клинический инфекционный центр",
+      "url": "https://salstek.ru/projects/respublikanskiy-klinicheskiy-infektsionnyy-tsentr/"
+    },
+    {
+      "title": "Школа",
+      "url": "https://salstek.ru/projects/shkola/"
+    },
+    {
+      "title": "Спортивный комплекс «Абай Арена»",
+      "url": "https://salstek.ru/projects/sporti/"
+    },
+    {
+      "title": "Центр дзюдо «Батыр»",
+      "url": "https://salstek.ru/projects/sportivnyy-kompleks-batyr/"
+    },
+    {
+      "title": "Стадион",
+      "url": "https://salstek.ru/projects/stadion/"
+    },
+    {
+      "title": "Театр балета",
+      "url": "https://salstek.ru/projects/teatr-baleta/"
+    },
+    {
+      "title": "Центр исследования энергии (EXPO)",
+      "url": "https://salstek.ru/projects/tsentr-issledovaniya-energii-expo/"
+    },
+    {
+      "title": "Центр шорт-трека",
+      "url": "https://salstek.ru/projects/tsentr-short-treka/"
+    },
+    {
+      "title": "Центральный банк",
+      "url": "https://salstek.ru/projects/tsentralnyy-bank/"
+    },
+    {
+      "title": "ЦУМ",
+      "url": "https://salstek.ru/projects/tsum/"
+    },
+    {
+      "title": "ТЦ «Diamond Plaza»",
+      "url": "https://salstek.ru/projects/tts-diamond-plaza/"
+    },
+    {
+      "title": "ТЦ «Hyper House»",
+      "url": "https://salstek.ru/projects/tts-hyper-house/"
+    },
+    {
+      "title": "ТЦ «Kremlewski»",
+      "url": "https://salstek.ru/projects/tts-kremlewski/"
+    },
+    {
+      "title": "ТЦ «Sky Light»",
+      "url": "https://salstek.ru/projects/tts-sky-light/"
+    },
+    {
+      "title": "Завод лекарственных препаратов",
+      "url": "https://salstek.ru/projects/zavod-lekarstvennykh-preparatov/"
+    },
+    {
+      "title": "Жилой комплекс",
+      "url": "https://salstek.ru/projects/zhiloy-kompleks/"
+    },
+    {
+      "title": "ЖК «4YOU»",
+      "url": "https://salstek.ru/projects/zhk-4you/"
+    },
+    {
+      "title": "ЖК «Атлант»",
+      "url": "https://salstek.ru/projects/zhk-atlant/"
+    },
+    {
+      "title": "ЖК «Ботанический сад»",
+      "url": "https://salstek.ru/projects/zhk-botanicheskiy-sad/"
+    },
+    {
+      "title": "ЖК «Capital Park»",
+      "url": "https://salstek.ru/projects/zhk-capital-park/"
+    },
+    {
+      "title": "ЖК «Crocus City»",
+      "url": "https://salstek.ru/projects/zhk-crocus-city/"
+    },
+    {
+      "title": "ЖК «Дом на Абая»",
+      "url": "https://salstek.ru/projects/zhk-dom-na-abaya/"
+    },
+    {
+      "title": "ЖК «Esentai City»",
+      "url": "https://salstek.ru/projects/zhk-esentai-city/"
+    },
+    {
+      "title": "ЖК «Конди Нова»",
+      "url": "https://salstek.ru/projects/zhk-kondi-nova/"
+    },
+    {
+      "title": "ЖК «Космос»",
+      "url": "https://salstek.ru/projects/zhk-kosmos/"
+    },
+    {
+      "title": "ЖК «Квартал энтузиастов»",
+      "url": "https://salstek.ru/projects/zhk-kvartal-entuziastov/"
+    },
+    {
+      "title": "ЖК «Life Park 2.0»",
+      "url": "https://salstek.ru/projects/zhk-life-park-2-0/"
+    },
+    {
+      "title": "ЖК « Лорсанова»",
+      "url": "https://salstek.ru/projects/zhk-lorsanova/"
+    },
+    {
+      "title": "ЖК «Metropole»",
+      "url": "https://salstek.ru/projects/zhk-metropole/"
+    },
+    {
+      "title": "ЖК «Нестеров»",
+      "url": "https://salstek.ru/projects/zhk-nesterov/"
+    },
+    {
+      "title": "ЖК «Нестеровский»",
+      "url": "https://salstek.ru/projects/zhk-nesterovskiy/"
+    },
+    {
+      "title": "ЖК «Новатор»",
+      "url": "https://salstek.ru/projects/zhk-novator/"
+    },
+    {
+      "title": "ЖК «Парковый Премиум»",
+      "url": "https://salstek.ru/projects/zhk-parkovyy-premium/"
+    },
+    {
+      "title": "ЖК «Ray Residence»",
+      "url": "https://salstek.ru/projects/zhk-ray-residence/"
+    },
+    {
+      "title": "ЖК «Шерипова»",
+      "url": "https://salstek.ru/projects/zhk-sheripova/"
+    },
+    {
+      "title": "ЖК «Танго»",
+      "url": "https://salstek.ru/projects/zhk-tango/"
+    },
+    {
+      "title": "ЖК «Триумф»",
+      "url": "https://salstek.ru/projects/zhk-triumf/"
+    },
+    {
+      "title": "ЖК «Уникум»",
+      "url": "https://salstek.ru/projects/zhk-unikum/"
+    },
+    {
+      "title": "ЖК «Ватутинки»",
+      "url": "https://salstek.ru/projects/zhk-vatutinki/"
+    },
+    {
+      "title": "ЖК «Veer Park»",
+      "url": "https://salstek.ru/projects/zhk-veer-park/"
+    },
+    {
+      "title": "ЖК «Видинеевский»",
+      "url": "https://salstek.ru/projects/zhk-vidineevskiy/"
+    },
+    {
+      "title": "ЖК «Южные сады»",
+      "url": "https://salstek.ru/projects/zhk-yuzhnye-sady/"
+    },
+    {
+      "title": "ЖК «Central Avenue»",
+      "url": "https://salstek.ru/projects/zhk/"
+    }
+  ],
+  "news": [
+    {
+      "title": "Архитектурная биеннале 2024",
+      "url": "https://salstek.ru/news/arkhitekturnaya-biennale-2024/"
+    },
+    {
+      "title": "Экологическая декларация EPD",
+      "url": "https://salstek.ru/news/ekologicheskaya-deklaratsiya-epd/"
+    },
+    {
+      "title": "Ежегодный форум архитектуры и строительства",
+      "url": "https://salstek.ru/news/ezhegodnyy-forum-arkhitektury-i-stroitelstva/"
+    },
+    {
+      "title": "Facade Fusion 2024",
+      "url": "https://salstek.ru/news/facade-fusion-2024/"
+    },
+    {
+      "title": "Форум «Казаныш 2025»",
+      "url": "https://salstek.ru/news/forum-kazanysh-2025/"
+    },
+    {
+      "title": "Конкурс «Красивая компания»",
+      "url": "https://salstek.ru/news/konkurs-krasivaya-kompaniya/"
+    },
+    {
+      "title": "Межзаводской конкурс «Лучший по профессии»",
+      "url": "https://salstek.ru/news/mezhzavodskoy-konkurs-luchshiy-po-professii/"
+    },
+    {
+      "title": "Модернизация линии нанесения покрытий",
+      "url": "https://salstek.ru/news/modernizatsiya-linii-naneseniya-pokrytiy/"
+    },
+    {
+      "title": "Новое мультифункциональное стекло MultiComfort° Neutral PRO",
+      "url": "https://salstek.ru/news/novoe-multifunktsionalnoe-steklo-multicomfort-neutral-pro/"
+    },
+    {
+      "title": "Особо прозрачное стекло - достижение стекольной промышленности в России",
+      "url": "https://salstek.ru/news/osobo-prozrachnoe-steklo-dostizhenie-stekolnoy-promyshlennosti-v-rossii/"
+    },
+    {
+      "title": "Первая отгрузка стекла Over Size 12 метров",
+      "url": "https://salstek.ru/news/pervaya-otgruzka-stekla-12-metrov/"
+    },
+    {
+      "title": "Первое стекло Over Size 12 метров в Россия",
+      "url": "https://salstek.ru/news/pervoe-steklo-over-size-12-metrov-v-rossii/"
+    },
+    {
+      "title": "Первое в России стекло с антибликовым покрытием Clearview",
+      "url": "https://salstek.ru/news/pervoe-v-rossii-steklo-s-antiblikovym-pokrytiem-clearview/"
+    },
+    {
+      "title": "Розжиг ЛТФ-5 на АО «Салаватстекло Волга»",
+      "url": "https://salstek.ru/news/rozzhig-ltf-5-na-ao-salavatsteklo-volga/"
+    },
+    {
+      "title": "АО «Салаватстекло» и ООО «Салаватстекло Каспий» вошли в состав стекольного кластера СКФО",
+      "url": "https://salstek.ru/news/salavatsteklo-i-salavatsteklo-kaspiy-voshli-v-promyshlennyy-stekolnyy-klaster-skfo/"
+    },
+    {
+      "title": "Space Glass Fest - архитектурный форум",
+      "url": "https://salstek.ru/news/space-glass-fest-arkhitekturnyy-forum-salavatsteklo/"
+    },
+    {
+      "title": "Новости компании «Салаватстекло»",
+      "url": "https://salstek.ru/news/steklo-over-size-s-pokrytiem/"
+    },
+    {
+      "title": "Начат выпуск листового стекла с пониженным содержанием железа Extraview",
+      "url": "https://salstek.ru/news/steklo-s-ponizhennym-soderzhaniem-zheleza-extraview/"
+    },
+    {
+      "title": "Турнир «Линия мысли»",
+      "url": "https://salstek.ru/news/turnir-liniya-mysli/"
+    },
+    {
+      "title": "«Турнир влюбленных в спорт»",
+      "url": "https://salstek.ru/news/turnir-vlyublennykh-v-sport/"
+    },
+    {
+      "title": "Участие в выставке Eurasia Glass 2023 (Стамбул, Турция)",
+      "url": "https://salstek.ru/news/uchastie-v-vystavke-eurasia-glass-2023-stambul-turtsiya/"
+    },
+    {
+      "title": "V Межзаводской конкурс",
+      "url": "https://salstek.ru/news/v-mezhzavodskoy-konkurs/"
+    },
+    {
+      "title": "Выставка MosBuild 2023",
+      "url": "https://salstek.ru/news/vystavka-mosbuild-2023/"
+    },
+    {
+      "title": "Запуск линии производства стекла после реконструкции",
+      "url": "https://salstek.ru/news/zapusk-linii-proizvodstva-stekla-posle-rekonstruktsii/"
+    }
+  ],
+  "about_pages": [
+    {
+      "title": "О компании",
+      "url": "https://salstek.ru/o-kompanii/"
+    },
+    {
+      "title": "Экология",
+      "url": "https://salstek.ru/o-kompanii/ecology/"
+    },
+    {
+      "title": "История компании",
+      "url": "https://salstek.ru/o-kompanii/history/"
+    },
+    {
+      "title": "История ООО «Салаватстекло Каспий»",
+      "url": "https://salstek.ru/o-kompanii/history/salavatsteklokaspiy/"
+    },
+    {
+      "title": "История АО «Салаватстекло Волга»",
+      "url": "https://salstek.ru/o-kompanii/history/saratovstroysteklo/"
+    },
+    {
+      "title": "Инновации",
+      "url": "https://salstek.ru/o-kompanii/innovation/"
+    },
+    {
+      "title": "Система менеджмента",
+      "url": "https://salstek.ru/o-kompanii/management/"
+    }
+  ],
+  "phones": [
+    "+73476377155",
+    "+78452305929",
+    "88007700208",
+    "+73476377161",
+    "+73476377021",
+    "+73476377047",
+    "+73476377057",
+    "+73476377059",
+    "+73476377198",
+    "+73476377471",
+    "+77472370137",
+    "+77770382088",
+    "+78452305233",
+    "+78452305283",
+    "+78452305324"
+  ],
+  "emails": [
+    "gas01@salstek.ru",
+    "sales@salstek.ru",
+    "a_kapurova@flatglass.ru",
+    "a_odintsov@flatglass.ru",
+    "aer01@salstek.ru",
+    "aksemenova@sar-steklo.ru",
+    "aygana@mail.ru",
+    "bliznyuk@sar-steklo.ru",
+    "centre@salstek.ru",
+    "depark88@mail.ru",
+    "egorov@salstek.ru",
+    "glazyrina@sar-steklo.ru",
+    "gorbuhova@sar-steklo.ru",
+    "hanina@sar-steklo.ru",
+    "hisaev@salstek.ru"
+  ],
+  "contacts_text": "Отдел продаж\nСтруктурные подразделения\nАО «Салаватстекло»\n\n453253, РФ, Республика Башкортостан,\nг. Салават, ул. Индустриальная, 18\n\n+7 (3476) 37-71-55\n\ninfo@salstek.ru\n\nВсе контакты\nООО «Салаватстекло Каспий»\n\n368085, РФ, Республика Дагестан,\nКумторкалинский район, п. Тюбе\n\n+7 (499) 681-06-23\n\ninfo@flatglass.ru\n\nВсе контакты\n\nОтдел продаж\nКлиентский сервис Агидель\nМенеджер клиентского сервиса Дивизион Центр, Юг\nБулдышкина Елена Александровна\nМенеджер клиентского сервиса Дивизион Центр, Восток\nРассохина Анжела Павловна\nМенеджер клиентского сервиса Дивизион Экспорт, ПФО\nШиряева Ольга Юрьевна\nМенеджер клиентского сервиса Дивизион Экспорт (Казахстан)\nАскарова Эльвира Рифатовна\nКлиентский сервис Волга\nНачальник отдела клиентского сервиса\nГлазырина Наталья Валерьевна\nСпециалист клиентского сервиса\nМордвинкина Мария Анатольевна\nСпециалист клиентского сервиса\nСеменова Ангелина Куприяновна\nСпециалист клиентского сервиса\nСмолянская Наталья Сергеевна\nСпециалист клиентского сервиса\nТерентьев Михаил Михайлович\nКлиентский сервис Каспий\nРуководитель клиентского сервиса\nМагомедов Мурад Израилович\nСтарший менеджер клиентского сервиса Дивизион Экспорт\nАбасгаджиева Марьям Гаджимагомедовна\nМенеджер клиентского сервиса Дивизиона Центр, Восток\nБудайчиев Муса Маратович\nМенеджер клиентского сервиса Дивизион Юг\nСячина Юлия Георгиевна\nМенеджер клиентского сервиса Дивизиона ЮГ\nКапурова Асият Басировна\nЭлектронная почта отдела продаж\nРуководство\nРуководитель проектных продаж архитектурного стекла\nБлизнюк Константин Юрьевич\nДивизион Экспорт\nДивизион Центр\nДивизион Восток\nДивизион Юг\nЭлектронная почта отдела продаж\nДивизион Экспорт\nМенеджер по продажам\nПушнов Сергей Михайлович\nМенеджер по продажам\nМотырева Светлана Вячеславовна\nДивизион Центр\nМенеджер по продажам\nГорбухова Мария Павловна\nМенеджер по продажам\nМазин Сергей Владимирович\nДивизион Восток\nРуководитель дивизиона\nШалев Дмитрий Антонович\n\nРеквизиты\nРеквизиты компании\nСкачать\nПолное наименование\nОбщество с ограниченной ответственностью «Салаватстекло Каспий»\nИНН\n0552006851\nКПП\n055201001\nБИК\n40702615\nРасчётный счёт\n40702810360320015716\nКор.Счёт\n30101810907020000615\nОГРН\n1210500005616\n\nРеквизиты\nРеквизиты компании\nСкачать\nПолное наименование\nАкционерное Общество «Салаватстекло»\nИНН\n0266004050\nКПП\n026601001\nБИК\n048073601\nРасчётный счёт\n40702810806404000298\nКор.Счёт\n30101810300000000601\nОГРН\n1020201995043\n\nРеквизиты\nРеквизиты компании\nСкачать\nПолное наименование\nАкционерное общество «Салаватстекло Волга»\nИНН\n6453054397\nКПП\n645301001\nОГРН\n1026403044073\nБИК\n043601607\nРасчетный счет\n40702810156020114113\nКор.счет\n30101810200000000607\n\nОтдел продаж\nКлиентский сервис Агидель\nМенеджер клиентского сервиса Дивизион Центр, Юг\nБулдышкина Елена Александровна\nМенеджер клиентского сервиса Дивизион Центр, Восток\nРассохина Анжела Павловна\nМенеджер клиентского сервиса Дивизион Экспорт, ПФО\nШиряева Ольга Юрьевна\nМенеджер клиентского сервиса Дивизион Экспорт (Казахстан)\nАскарова Эльвира Рифатовна\nКлиентский сервис Волга\nНачальник отдела клиентского сервиса\nГлазырина Наталья Валерьевна\nСпециалист клиентского сервиса\nМордвинкина Мария Анатольевна\nСпециалист клиентского сервиса\nСеменова Ангелина Куприяновна\nСпециалист клиентского сервиса\nСмолянская Наталья Сергеевна\nСпециалист клиентского сервиса\nТерентьев Михаил Михайлович\nКлиентский сервис Каспий\nРуководитель клиентского сервиса\nМагомедов Мурад Израилович\nСтарший менеджер клиентского сервиса Дивизион Экспорт\nАбасгаджиева Марьям Гаджимагомедовна\nМенеджер клиентского сервиса Дивизиона Центр, Восток\nБудайчиев Муса Маратович\nМенеджер клиентского сервиса Дивизион Юг\nСячина Юлия Георгиевна\nМенеджер клиентского сервиса Дивизиона ЮГ\nКапурова Асият Басировна\nЭлектронная почта отдела продаж\nРуководство\nРуководитель проектных продаж архитектурного стекла\nБлизнюк Константин Юрьевич\nДивизион Экспорт\nДивизион Центр\nДивизион Восток\nДивизион Юг\nЭлектронная почта отдела продаж\nДивизион Экспорт\nМенеджер по продажам\nПушнов Сергей Михайлович\nМенеджер по продажам\nМотырева Светлана Вячеславовна",
+  "generated_at": "2026-11-13T11:26:24.517247+00:00",
+  "_note": "Сводка собрана правилами по структуре сайта, без участия LLM."
+}

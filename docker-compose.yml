@@ -1,0 +1,51 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: glass-db
+    environment:
+      POSTGRES_USER: glass
+      POSTGRES_PASSWORD: glass
+      POSTGRES_DB: glass
+    ports:
+      - "127.0.0.1:5433:5432"
+    volumes:
+      - glass_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U glass -d glass"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+    restart: unless-stopped
+
+  # Backend: docker compose --profile app up -d --build
+  # Вход в ChatGPT выполняется на хосте (python -m scripts.chatgpt_login): redirect идёт на 127.0.0.1 хоста,
+  # зашифрованные токены лежат в ./data/secrets и видны контейнерам через volume.
+  api: &app
+    build: .
+    profiles: ["app"]
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql+asyncpg://glass:glass@db:5432/glass
+      HF_HOME: /app/data/hf-cache
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    ports:
+      - "127.0.0.1:8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+
+  scheduler:
+    <<: *app
+    command: ["python", "-m", "scripts.scheduler"]
+    ports: []
+
+  bot:
+    <<: *app
+    command: ["python", "-m", "scripts.bot"]
+    ports: []
+
+volumes:
+  glass_pgdata:
